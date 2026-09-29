@@ -23,4 +23,5 @@ TypeScript, Node.js, Next.js, React, Tailwind CSS, the Claude API, libSQL, Drizz
 - [mador.ai](https://mador.ai)
 - [khlumen.com](https://khlumen.com)
 - [LinkedIn](https://www.linkedin.com/in/vladhumenny/)
+- [X](https://x.com/vladhumenny_)
 - [Instagram (Mador)](https://instagram.com/getmador.ai)
