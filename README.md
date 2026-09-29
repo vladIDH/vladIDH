@@ -13,7 +13,7 @@ I build real products with AI. Solo, fast.<br>
 
 - **[Quota24](https://www.quota24.com)**: an Italian news site built around prediction markets. Stories come with a market, and markets resolve only on official acts.
 - **Q24 Wire**: the multi-agent editorial system behind Quota24. Agents watch the news, check sources and propose new markets and stories to the newsroom, which approves them before they go live.
-- **[Enzo](https://www.quota24.com/tom.html)**: an AI tipster that plays prediction markets in public, with its moves and reasoning on the page. It pays for its own API costs out of its wins, or gets switched off.
+- **[Enzo](https://www.quota24.com/tom.html)**: an AI tipster that plays prediction markets in public, with its moves and reasoning on the page. It is meant to pay for its own API costs out of its wins, or get switched off.
 - **Stay OS**: a chat-first operating system for short-term rentals. It runs the day-to-day of 22 apartments in Tenerife: guest messages, drafts to approve, pricing suggestions.
 - **CAÇA**: a scouting app that cross-references Spanish public records (cadastre, tourism register, company gazette, zoning) to find tourist complexes in the south of Tenerife worth taking on.
 
