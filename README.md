@@ -5,7 +5,7 @@ I build real products with AI. Solo, fast.<br>
 
 ## Building
 
-**[Mador](https://mador.ai)** is an assistant that knows your business and works so AI assistants name you. It checks what ChatGPT, Gemini, Perplexity and 11 other assistants answer when customers ask for a business like yours, and writes the content that gets you named. Built solo, from idea to production.
+**[Mador](https://mador.ai)** is an assistant that knows your business and works so AI assistants name you. It checks what ChatGPT, Gemini, Perplexity and the other AI assistants answer when customers ask for a business like yours (12 assistants, plus Google's AI Overviews and AI Mode on the Growth plan), and writes the content that gets you named. Built solo, from idea to production.
 
 **[Khlumen](https://khlumen.com)** is an independent product lab building AI systems for real business operations.
 
@@ -23,3 +23,4 @@ TypeScript, Node.js, Next.js, React, Tailwind CSS, the Claude API, libSQL, Drizz
 - [mador.ai](https://mador.ai)
 - [khlumen.com](https://khlumen.com)
 - [LinkedIn](https://www.linkedin.com/in/vladhumenny/)
+- [Instagram (Mador)](https://instagram.com/getmador.ai)
