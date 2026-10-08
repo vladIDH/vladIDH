@@ -21,6 +21,7 @@ I build real products with AI. Solo, fast.<br>
 
 - **[readable-by-ai](https://github.com/vladIDH/readable-by-ai)**: how much of your website can AI assistants actually read? Checks JavaScript-only pages, robots.txt rules for AI crawlers, Cloudflare blocks, structured data and llms.txt.
 - **[mador-wordpress](https://github.com/vladIDH/mador-wordpress)**: connects a WordPress site to Mador: site verification, questions and answers with FAQ structured data, the badge and the certificate.
+- **[mador-mcp](https://github.com/vladIDH/mador-mcp)**: extracted from the MCP server that runs Mador in production, as a reusable TypeScript package: connect any SaaS to Claude and ChatGPT with read-only tools, per-user token auth, a time limit on every call and rate limits.
 
 ## Stack
 
